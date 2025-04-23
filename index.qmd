@@ -1,0 +1,69 @@
+---
+title: "Micro Credential Programming: Reducing Barriers to Post-Secondary Education in a Sample of Diverse Adult Learners "
+bibliography: references.bib
+author: 
+  - name: Michael Figuccio
+    affiliations:
+    - name: Farmingdale State College
+  - name: Chistopher D. Long
+    affiliations:
+    - name: Farmingdale State College
+  - name: Bianca Marro-Boyle
+    affiliations:
+    - name: Farmingdale State College
+  - name: MaryBeth Apriceno
+    affiliations:
+    - name: Farmingdale State College
+  - name: David A. Brocker
+    affiliations:
+    - name: Farmingdale State College
+  - name: Kathryn M. Hauschild
+    affiliations:
+    - name: Farmingdale State College
+---
+
+# Background
+
+- Adult learners (above age 25 years) are a diverse group of individuals that account for 23% of the undergraduate student population (National Center for Educational Statistics, 2022). 
+
+- Several barriers to learning and academic achievement for adult learners include financial concerns, technology use concerns, time-management concerns, and general feelings of being underprepared for college-level learning (Bellaire et al., 2023). 
+- Micro credential programs are short, credential-based programs that are designed to provide in-demand skills, training, and experience in an area of community need. 
+Direct Support Professionals (DSPs) support individuals with disabilities across several contexts and within a variety of daily living settings. 
+
+- The State University of New York DSP Program, in partnership with New York State’s Office for People with Developmental Disabilities and the National Alliance for Direct Support Professionals (NADSP), provides direct support professionals with training that leads to national certification in the skills and competency areas unique to the field of direct support. 
+
+
+# Objective
+
+To assess student completion rates of and employer satisfaction with the level one Direct Support Professionals  Microcredential Program offered by Farmingdale State College. 
+
+
+# Method
+
+- Seventy-one students enrolled in level one of the Direct Support Professionals Microcredential Program offered through Farmingdale State College across the Spring 2024 (n=32), Summer 2024 (n=14), and Fall 2024 (n=31) semesters (see Figure 1 and Figure 2). 
+
+- Program requirements included completion of the DSP-I Certification through the NADSP as well as the completion of two college credit bearing courses: Introduction to Psychology and Introduction to Human Services. 
+
+- To reduce common barriers reported by adult learners and to support overall student success, the program provided students with: 
+
+
+# Results
+
+- Data indicate that the DSP Microcredential Program offered at Farmingdale State College was successful in fostering student success. Overall, 62.5% of the Spring 2024, 85.7% of the Summer 2024, and 83.90% of the Fall 2024 cohorts successfully completed all program requirements. 
+
+
+## Conclusion
+
+- Micro credential programs are a promising avenue to promote adult learner success at the college-level.
+
+- These programs have become particularly beneficial in fostering pathways for professional development and career advancement in high demand but traditionally under supported fields of human services such as direct support.  
+
+- These data are a crucial first step in providing instructors and administrators empirically based best practices for successfully supporting adult learners in micro credential programs. 
+
+- Future work should examine which aspects of the program support model were most effective in reducing barriers to program completion and promoting student success (e.g., 1) financial support for program tuition, fees, and textbook costs, 2) program-specific academic coaches, 3) a cash incentive for program completion, and 4) additional hardship funding to cover costs associated with childcare, travel, technology, or other prohibitive costs). 
+
+
+### Poster
+
+<embed src="images/SRCD Poster 2025.pdf" width="800px" height="700px" />
+

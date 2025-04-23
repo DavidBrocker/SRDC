@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SRDC 2025"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    code-fold: true
+    lightbox: true
+
+editor: visual
+
